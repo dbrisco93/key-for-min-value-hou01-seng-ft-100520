@@ -11,7 +11,5 @@ name_hash.each do |key, value|
     the_key = key
   end
 end
- 
 the_key
-  
 end
